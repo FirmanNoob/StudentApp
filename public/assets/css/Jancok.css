@@ -1,0 +1,38 @@
+#services .subhead{
+    width: 100%;
+    /* padding-left: 670px; */
+    /* max-width: 100%; */
+    /* color: #7b68ee; */
+    display: inline-block;
+    /* font: 800 10px/12px Axiforma,Arial,serif;
+    text-align: left;
+    letter-spacing: 2px;
+    display: block;
+    text-transform: uppercase; */
+  }
+  #services .subhead #click{
+    display: inline-block;
+    max-width: 664px;
+    width: 100%;
+  }
+  #services .subhead .para{
+    display: inline-block;
+    width: 100%;
+    text-align: right;
+    /* padding: 100px; */
+    /* margin-top: 100px; */
+    color: #7b68ee;
+      font: 800 10px/12px Axiforma,Arial,serif;
+      /* text-align: left; */
+      letter-spacing: 2px;
+      text-transform: uppercase;
+  }
+  #services .subhead h2{
+    display: block;
+    /* max-width: 448px; */
+    width: 100%;
+    text-align: right;
+    /* padding-left: 100px; */
+    margin-bottom: 50px;
+    position: relative;
+  }
